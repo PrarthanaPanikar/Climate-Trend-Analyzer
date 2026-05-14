@@ -107,6 +107,5 @@ Recommended filenames are in `docs/proof_assets_checklist.md`.
 - Geospatial mapping (GeoPandas) and choropleths
 
 ### Author
-Your Name  
-LinkedIn: <link>  
-GitHub: <link>
+Your Name  : Prarthana Sumesh Panikar
+
